@@ -1,7 +1,7 @@
 # Student-Management-System-DBMS-
 
-this is an student database managemnt system that features :
-Student registration management
-Adding student to database
-Input taken - SID, NAME, YEAR, DEPARTMENT, COURSES
-Displaying their information
+This is an student database managemnt system that features :
+1. Student registration management
+2. Adding student to database
+3. Input taken - SID, NAME, YEAR, DEPARTMENT, COURSES
+4. Displaying their information
